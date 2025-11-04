@@ -30,6 +30,7 @@ public class UaiBiMotors {
     if(ipvaC1 == 0 ) {
         System.out.println("Veiculo Isento");
     }
+
     else{
         System.out.println("Valor do IPVA "+ ipvaC1);
     }

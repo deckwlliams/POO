@@ -32,6 +32,7 @@ void simularSeguro(int perfil){
         System.out.println("Não temos esse perfil");
     }
  }
+
 double calcularIPVA(){
   double valorIpva;
    if (ano<= 2002){
