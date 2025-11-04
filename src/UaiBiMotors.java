@@ -4,20 +4,22 @@ public class UaiBiMotors {
         c1 = new Carro();
         c2 = new Carro();
 
-        c1.marca = "Porse";
-        c1.modelo = "Ford";
-        c1.cor = "Azul";
-        c1.ano = 2020;
-        c1.km = 0;
-        c1.preco = 50500;
+        c1.setMarca("porche");
+        c1.setModelo("Chevrolet");
+        c1.setCor("Azul");
+        c1.setAno(202);
+        c1.setKm(0);
+        c1.setAno(50550);
 
-        c2.marca = "Chevrolt";
-        c2.modelo = "Corsa";
-        c2.cor = "Vermelho";
-        c2.ano = 2020;
-        c2.km = 0;
-        c2.preco = 23000;
-        
+        c2.setMarca("Chevrolt");
+        c2.setModelo("Corsa");
+        c2.setCor("Vermelho");
+        c2.setAno(2020);
+        c2.setKm(0);
+        c2.setPreco(23000);
+
+        c1.setMarca("Porse");
+        c1.setModelo("Chevrolet");
 //        c1.exibirAnuncio();
 //        c2.exibirAnuncio();
         c1.simularSeguro(3);
