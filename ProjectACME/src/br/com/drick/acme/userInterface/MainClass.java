@@ -16,5 +16,6 @@ public class MainClass {
 
         for (int i = 0; i < folha.length; i++) {
             System.out.println(folha[i]);
+            System.out.println(folha[i].toString());
         }    }
 }
