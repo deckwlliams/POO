@@ -1,0 +1,42 @@
+# 🧩 Programação Orientada a Objetos (POO) — Java
+
+Este repositório contém diversos exercícios, exemplos e pequenos projetos desenvolvidos durante meus estudos de **Programação Orientada a Objetos (POO)** em Java.
+
+O objetivo é registrar minha evolução na linguagem, praticar conceitos fundamentais e criar uma base sólida para projetos futuros.
+
+---
+
+## 📚 Conteúdo do Repositório
+
+Aqui você encontrará pastas com diferentes atividades, cada uma representando um conceito ou prática específica da programação orientada a objetos:
+
+- **Classes e Objetos**
+- **Encapsulamento**
+- **Herança**
+- **Polimorfismo**
+- **Sobrecarga e Sobrescrita**
+- **Interfaces**
+- **Coleções (ArrayList, List, etc.)**
+- **Tratamento de Exceções**
+- **Streams API**
+- **Projetos práticos utilizando POO**
+
+Cada pasta representa um exercício, desafio ou mini-projeto desenvolvido durante o aprendizado.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Java 8+**
+- **JDK (Java Development Kit)**
+- IDEs:
+  - IntelliJ IDEA
+  - Eclipse (em alguns projetos)
+
+---
+
+## 🚀 Como Executar os Projetos
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/deckwlliams/POO.git
